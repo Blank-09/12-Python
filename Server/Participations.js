@@ -12,8 +12,8 @@ let participations = [
     img: "29",
   },
   {
-    name: "12 B 04",
-    img: "",
+    name: "12 B 04 Raj Srimann",
+    img: "6",
   },
   {
     name: "12 B 05 Ritheeswaran",
@@ -24,8 +24,8 @@ let participations = [
     img: "31",
   },
   {
-    name: "12 B 7",
-    img: "",
+    name: "12 B 07 K.Sharaj Shanjay",
+    img: "7",
   },
   {
     name: "12 B 08 Sriraam.N",
@@ -40,8 +40,8 @@ let participations = [
     img: "34",
   },
   {
-    name: "12 B 11",
-    img: "",
+    name: "12 B 11 Kannika K",
+    img: "4",
   },
   {
     name: "12 B 12 Adithya",
@@ -88,8 +88,8 @@ let participations = [
     img: "43",
   },
   {
-    name: "12 B 23",
-    img: "",
+    name: "12 B 23 Jeyanth A",
+    img: "3",
   },
   {
     name: "12 B 24 Kaushik",
@@ -136,8 +136,8 @@ let participations = [
     img: "53",
   },
   {
-    name: "12 B 35",
-    img: "",
+    name: "12 B 35 Charulata H",
+    img: "2",
   },
   {
     name: "12 B 36 Divya rakshana",
@@ -148,8 +148,8 @@ let participations = [
     img: "55",
   },
   {
-    name: "12 B 38",
-    img: "",
+    name: "12 B 38 Nithya",
+    img: "1",
   },
   {
     name: "12 B 39 Shreya.J.V",
@@ -160,6 +160,8 @@ let participations = [
     img: "57",
   },
 ];
+
+// 19 missing
 
 // console.log(participations.length);
 
