@@ -186,14 +186,17 @@ function position() {
 }
 
 function update(pts, arr) {
-  let decrement = pts / 3;
+  pts = parseInt(pts)
+  let decrement = pts / 5;
 
   arr.forEach((i) => {
+    i = parseInt(i);
     for (var j = 0; j < 40; j++) {
       if (pts <= 0) break;
       if (i == participations[j].id) {
         participations[j].score += pts;
         pts = Math.ceil(pts - decrement);
+        decrement += Math.ceil(decrement/2);
         break;
       }
     }
